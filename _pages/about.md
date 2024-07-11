@@ -27,4 +27,5 @@ Recent News
 - [2023-06] Our paper titled "Efficient Radio Wave Propagation Modeling in Tunnels with a Sparse Fourier Transform-Based Split-Step Parabolic Equation Method" has been accepted for publication in the IEEE Antennas and Wireless Propagation Letters.
 - [2023-04] Our paper titled "Embedding Antennas with Tilted Beam Patterns into Parabolic Wave Equation‐Based Models for Tunnel Propagation" has been accepted for publication in the IET Microwaves, Antennas & Propagation.
 - [2023-04] Our paper titled "Efficient Physics-Based Recurrent Neural Network Model for Radio Wave Propagation in Tunnels at 2.4 GHz" has been accepted for publication in the Electronics Letters.
+- [2019-06] One conference paper is accepted by 2019 IWCMC.
 
