@@ -1,4 +1,4 @@
-![image](https://github.com/HaoQin0223/haoqin0223.github.io/assets/175297292/bfec88df-854f-4afa-940e-ef7e718e30ed)---
+---
 permalink: /
 title: "About Me"
 author_profile: true
