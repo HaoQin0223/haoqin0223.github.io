@@ -17,5 +17,8 @@ Education
 
 Recent News
 ======
-- [2024-01] I joined
+- [2024-06] Our paper titled "Efficient High-Fidelity Deep Convolutional Generative Adversarial Network Model for Received Signal Strength Reconstruction in Indoor Environments" has been accepted for publication in Electronics Letters.
+- [2024-06] Our paper titled "Efficient Propagation Modeling for Open-Confined Mixed Space Using a Hybrid Ray-Tracing/Waveguide Theory Method" has been accepted for publication in IET Microwaves, Antennas & Propagation.
+- [2024-05] Our paper titled "Efficient Parabolic Equation Driven CNN Propagation Model in Tunnels Based on Frequency Conversion" has been accepted for publication in IEEE Transactions on Antennas and Propagation.
+- 
 
