@@ -4,11 +4,11 @@ main:
     url: /publications/
 
   - title: "Acativities"
-    url: /talks/    
+    url: /acativities/    
 
   - title: "Teaching"
     url: /teaching/    
    
   - title: "Awards"
-    url: /year-archive/
+    url: /awards/
  
