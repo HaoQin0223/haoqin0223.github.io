@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
-  - title: "Acativities"
-    url: /acativities/    
+  #- title: "Acativities"
+  #  url: /acativities/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
    
-  - title: "Awards"
-    url: /awards/
+  #- title: "Awards"
+  #  url: /awards/
  
