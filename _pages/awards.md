@@ -4,7 +4,6 @@ permalink: /awards/
 author_profile: true
 redirect_from: 
 redirect_from: 
-  - /awards/
   - /awards.html
 ---
 
