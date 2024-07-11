@@ -27,10 +27,10 @@ Recent News
 - [2023-12] Our paper titled "A High-Accuracy Deep Back-Projection CNN-Based Propagation Model for Tunnels" has been accepted for publication in the IEEE Antennas and Wireless Propagation Letters.
 - [2023-10] Our paper titled "Comparative Analysis of Finite‐Difference and Split‐Step Based Parabolic Equation Methods for Tunnel Propagation Modelling" has been accepted for publication in the IET Microwaves, Antennas & Propagation.
 - [2023-10] Our paper titled "Received Signal Strength Reconstruction Using Pix2pix Generative Adversarial Network" has been accepted for publication in the Electronics Letters.
+- [2023-08] I received the 2023 IEEE Antennas and Propagation Society Fellowship Program Awards.
 - [2023-07] Our paper won the Honorable Mention at 2023 PIERS.
 - [2023-07] Two conference papers are accepted by the 2023 PIERS, and I will give two talks in Prague, Czechia.
 - [2023-07] Our paper titled "Physics‐Based Wave Propagation Model Assisted Vehicle Localization in Tunnels" has been accepted for publication in the IET Microwaves, Antennas & Propagation.
-- [2023-08] I received the 2023 IEEE Antennas and Propagation Society Fellowship Program Awards.
 - [2023-06] Our paper titled "Efficient Radio Wave Propagation Modeling in Tunnels with a Sparse Fourier Transform-Based Split-Step Parabolic Equation Method" has been accepted for publication in the IEEE Antennas and Wireless Propagation Letters.
 - [2023-04] Our paper titled "Embedding Antennas with Tilted Beam Patterns into Parabolic Wave Equation‐Based Models for Tunnel Propagation" has been accepted for publication in the IET Microwaves, Antennas & Propagation.
 - [2023-04] Our paper titled "Efficient Physics-Based Recurrent Neural Network Model for Radio Wave Propagation in Tunnels at 2.4 GHz" has been accepted for publication in the Electronics Letters.
