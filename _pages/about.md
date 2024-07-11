@@ -34,5 +34,7 @@ Recent News
 - [2022-07] Two conference papers are accepted by the 2022 APS/URSI, and I will give two talks in Denver, USA.
 - [2021-12] One conference paper is accepted by the 2021 APS/URSI, and I will give one talk remotely.
 - [2021-08] Two conference papers are accepted by the 2021 URSI GASS, and I will give one talk remotely.
+- [2019-07] I received the M.S. degree in Information and Communication Engineering from the IoT Laboratory of Harbin Institute of Technology.
 - [2019-06] One conference paper is accepted by the 2019 IWCMC.
+- [2017-07] I received the B.Eng. degree in Communication Engineering from the Harbin Institute of Technology and was granted direct admission to the graduate school of HIT.
 
