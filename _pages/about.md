@@ -19,7 +19,9 @@ Recent News
 ======
 - [2024-06] Our paper titled "Efficient High-Fidelity Deep Convolutional Generative Adversarial Network Model for Received Signal Strength Reconstruction in Indoor Environments" has been accepted for publication in the Electronics Letters.
 - [2024-06] Our paper titled "Efficient Propagation Modeling for Open-Confined Mixed Space Using a Hybrid Ray-Tracing/Waveguide Theory Method" has been accepted for publication in the IET Microwaves, Antennas & Propagation.
+- [2024-06] I served as the TPC member of "Wireless Communications (Standard Track)" at EAI WiSATS 2024.
 - [2024-05] Our paper titled "Efficient Parabolic Equation Driven CNN Propagation Model in Tunnels Based on Frequency Conversion" has been accepted for publication in the IEEE Transactions on Antennas and Propagation.
+- [2024-03] I served as the session chair of "Wave Propagation and Scattering: Advances, Trends, and New Applications" at 2024 PIERS.
 - [2024-03] Three conference papers are accepted by the 2024 PIERS, and I will give two talks in Chengdu, China.
 - [2023-12] Our paper titled "A High-Accuracy Deep Back-Projection CNN-Based Propagation Model for Tunnels" has been accepted for publication in the IEEE Antennas and Wireless Propagation Letters.
 - [2023-10] Our paper titled "Comparative Analysis of Finite‐Difference and Split‐Step Based Parabolic Equation Methods for Tunnel Propagation Modelling" has been accepted for publication in the IET Microwaves, Antennas & Propagation.
@@ -36,5 +38,6 @@ Recent News
 - [2021-08] Two conference papers are accepted by the 2021 URSI GASS, and I will give one talk remotely.
 - [2019-07] I received the M.S. degree in Information and Communication Engineering from the IoT Laboratory of Harbin Institute of Technology.
 - [2019-06] One conference paper is accepted by the 2019 IWCMC.
+- [2019-05] We organized the 2019 EAI International Conference on Artificial Intelligence for Communications and Networks in Harbin, China. 
 - [2017-07] I received the B.Eng. degree in Communication Engineering from the Harbin Institute of Technology and was granted direct admission to the graduate school of HIT.
 
