@@ -11,7 +11,7 @@ Hao Qin is a PhD student in the School of Electrical and Electronic Engineering 
 
 Education
 ======
-- Ph.D., University College Dublin (Sept. 2020-Sept. 2024)
+- Ph.D., University College Dublin (Sept. 2020-Aug. 2024)
 - M.S., Harbin Institute of Technology (Sept. 2017-July 2019)
 - B.Eng., Harbin Institute of Technology (Sept. 2013-July 2017)
 
