@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hao Qin is a PhD student in the School of Electrical and Electronic Engineering at University College Dublin, Dublin, Ireland. He received the B.Sc and M.A.Sc. degrees from the Harbin Institute of Technology, Harbin, China, in 2017 and 2019, respectively. He was an Algorithm Engineer at the headquarters of China Merchants Bank, Shenzhen, China. His research is in the interdisciplinary areas of applied electromagnetics and wireless communications. His research interests include wireless channel modeling and optimization, computational electromagnetics, localization, intelligent transportation, industrial Internet of Things, as well as AI-assisted channel modeling.
-
+Hao Qin is currently an Assistant Professor at the Sichuan University – Pittsburgh Institute, Sichuan University, China. He received the B.Sc. and M.A.Sc. degrees from Harbin Institute of Technology, Harbin, China, in 2017 and 2019, respectively, and the Ph.D. degree from the University College Dublin in 2024. His research interests include wireless channel modeling and optimization, computational electromagnetics, localization, and AI-assisted channel modeling.
 Education
 ======
 - Ph.D., University College Dublin (Sept. 2020-Aug. 2024)
