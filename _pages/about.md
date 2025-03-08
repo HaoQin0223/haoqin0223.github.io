@@ -8,11 +8,17 @@ redirect_from:
 ---
 
 Hao Qin is currently an Assistant Professor at the Sichuan University – Pittsburgh Institute, Sichuan University, China. He received the B.Sc. and M.A.Sc. degrees from Harbin Institute of Technology, Harbin, China, in 2017 and 2019, respectively, and the Ph.D. degree from the University College Dublin in 2024. His research interests include wireless channel modeling and optimization, computational electromagnetics, localization, and AI-assisted channel modeling.
-Education
+
+Work & Education
 ======
-- Ph.D., University College Dublin (Sept. 2020-Aug. 2024)
-- M.S., Harbin Institute of Technology (Sept. 2017-July 2019)
-- B.Eng., Harbin Institute of Technology (Sept. 2013-July 2017)
+- Ph.D., Electrical and Computer Engineering, University College Dublin (Sept. 2020-Aug. 2024)
+- M.S., Information and Communication Engineering, Harbin Institute of Technology (Sept. 2017-July 2019)
+- B.Eng., Communication Engineering, Harbin Institute of Technology (Sept. 2013-July 2017)
+
+Professoral Experience
+======
+- Assistant Professor, Sichuan University-Pittsburgh Institute, Sichuan University (Sept. 2024-Present)
+- Research Assistant, Electrical and Computer Engineering, University of Alberta (Sept. 2024-Aug. 2024)
 
 Recent News
 ======
