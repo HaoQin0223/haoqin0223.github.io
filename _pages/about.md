@@ -11,7 +11,7 @@ Hao Qin is currently an Assistant Professor at the Sichuan University – Pittsb
 
 Education
 ======
-- Ph.D., Electrical and Computer Engineering, University College Dublin (Sept. 2020-Jan. 2025)
+- Ph.D., Electrical and Electronic Engineering, University College Dublin (Sept. 2020-Jan. 2025)
 - M.S., Information and Communication Engineering, Harbin Institute of Technology (Sept. 2017-July 2019)
 - B.Eng., Communication Engineering, Harbin Institute of Technology (Sept. 2013-July 2017)
 
