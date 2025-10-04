@@ -1,10 +1,11 @@
 ---
 layout: archive
-permalink: /publciations/
+permalink: /publications/
 author_profile: true
 redirect_from: 
-redirect_from: 
-  - /publciations.html
+  - /publications/
+  - /publications.html
+---
 ---
 
 
