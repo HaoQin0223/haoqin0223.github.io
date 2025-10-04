@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Publications
-permalink: /publications/
+layout: archive
+permalink: /publciations/
+author_profile: true
+redirect_from: 
+redirect_from: 
+  - /publciations.html
 ---
 
 
