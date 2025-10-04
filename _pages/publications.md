@@ -10,20 +10,18 @@ permalink: /publications/
 Below is a list of my research publications, including pre-prints, journal papers, and conference papers.  
 [View on Google Scholar →](https://scholar.google.ca/citations?user=aBmmwloAAAAJ&hl=en)
 
+## Preprint  
+
+**[4]** K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, 2025. (corresponding author, under review)
+
+**[3]** Q. Zhao, Z. Feng, **H. Qin†**, Y. Liu, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach", *IEEE Transactions on Intelligent Transportation Systems*, 2025. (corresponding author, under review)
+
+**[2]** Q. Zhang, B. Zhang, and **H. Qin†**, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, under review)
+
+**[1]** S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, “Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation,” *IEEE Transactions on Antennas and Propagation*, 2025. (corresponding author, major revision)
+
 
 ## Journal Papers 
-
-**[J19]** **H. Qin**, S. Huang, X. Zhang, and X. Zhang, "Super-resolution method for radio wave propagation over irregular terrain", *IEEE Transactions on Antennas and Propagation*, 2025. (under review)
-
-**[J18]** K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, 2025. (corresponding author, under review)
-
-**[J17]** Q. Zhao, Z. Feng, **H. Qin†**, Y. Liu, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach", *IEEE Transactions on Intelligent Transportation Systems*, 2025. (corresponding author, under review)
-
-**[J16]** Q. Zhang, B. Zhang, and **H. Qin†**, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, under review)
-
-**[J15]** Q. Zhao, Z. Feng, Kun. Wu, **H. Qin†**, X. Zhang, and X. Zhang, “A hybrid generative cGAN-DRL approach for optimization of access point placement in train communication systems,” *Electronics Letters*, 2025. (corresponding author, under review)
-
-**[J14]** S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, “Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation,” *IEEE Transactions on Antennas and Propagation*, 2025. (corresponding author, major revision)
 
 **[J13]** **H. Qin**, Z. Wu, Y. Liu, X. Zhang, and X. Zhang, “Physics-based trajectory design for cellular-connected UAV in rainy environments based on deep reinforcement learning,” *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 7, pp. 10320-10335, 2025.
 
@@ -50,3 +48,57 @@ Below is a list of my research publications, including pre-prints, journal paper
 **[J2]** Z. Zhao†, **H. Qin†**, J. Wang, W. Hou, X. Zhang, “Embedding antennas with tilted beam patterns into parabolic wave equation-based models for tunnel propagation,” *IET Microwaves, Antennas & Propagation*, vol. 17, no. 9, pp. 685-693, 2023. (contributed equally)
 
 **[J1]** **H. Qin**, S. Huang, and X. Zhang, “Efficient physics-based recurrent neural network model for radio wave propagation in tunnels at 2.4 GHz,” *Electronics Letters*, vol. 59, no. 8, pp. e12789, 2023.
+
+## Conference Papers 
+
+**[C25]** X. Wei, G. Qian, Z. Zheng, **H. Qin**, and Y. Ouyang, “GPG-HT: Generalized Policy Gradient with History-Aware Decision Transformer for Probabilistic Path Planning,” *8th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2025)*, 2025. (submitted)
+
+**[C24]** J. Zhou, K. Wu, Q. Zhao, L. Zhang, and **H. Qin**, "A PSO-Based TOA–FOA Fusion Method for TDMA Acoustic Localization", *2025 International Conference on Information Automation*, 2025. (accepted)
+
+**[C23]** **H. Qin**, S. Huang, Y. Mu, X. Zhang, and X. Zhang, "Parabolic Wave Equation Approaches for Tunnel Propagation Modeling: An Overview for 5G and Beyond Wireless Communications", *2025 IEEE 102nd Vehicular Technology Conference*, 2025. (accepted)
+
+**[C22]** **H. Qin**, Y. Mu, X. Zhang, and X. Zhang, "Physics-informed Deep Reinforcement Learning for Optimal Wireless Access Point Deployment in Railway Environments", *Photonics & Electromagnetics Research Symposium (PIERS)*, 2025. (accepted)
+
+**[C21]** **H. Qin**, Y. Mu, S. Huang, X. Zhang, and X. Zhang, "Modeling Radio Wave Propagation over Irregular Terrain via the Split-step Parabolic Equation Approach", *Photonics & Electromagnetics Research Symposium (PIERS)*, 2025. (accepted)
+
+**[C20]** H. Wu, **H. Qin**, S. Huang, S. Ma, X. Zhang, and X. Zhang, "Efficient Radio Wave Propagation Prediction Using Dynamic GAN-based Model with Data Augmentation", *Photonics & Electromagnetics Research Symposium (PIERS)*, 2025. (accepted)
+
+**[C19]** S. Yang, S. Huang, **H. Qin**, X. Zhang, and X. Zhang, "A Statistically-bounded Machine Learning Framework for Robust Full-wave Electromagnetic Inversion", *Photonics & Electromagnetics Research Symposium (PIERS)*, 2025. (accepted)
+
+**[C18]** Y. Mu, **H. Qin**, X. Zhang, and X. Zhang, "A Statistically-bounded Machine Learning Framework for Robust Full-wave Electromagnetic Inversion", *Photonics & Electromagnetics Research Symposium (PIERS)*, 2025. (accepted)
+
+**[C17]** S. Yang, S. Huang, **H. Qin**, S. Yang, X. Zhang, and X. Zhang, “Frequency-Tunable CNN Model for Radio Wave Propagation in Tunnel Environments,” *IEEE MTT-S International Wireless Symposium*, 2025.
+
+**[C16]** S. Yang, S. Huang, **H. Qin**, X. Zhang, and X. Zhang, “Split-Step Parabolic Equation Driven CNN Model for Radio Wave Propagation Over Complex Terrain,” *IEEE MTT-S International Wireless Symposium*, 2025.
+
+**[C15]** H. Xu, J. Wang, K. Wu, Q. Zhao, **H. Qin**, X. Zhang, and X. Zhang, “A Temporal Attention Unit-Based Machine Learning Model for Efficient Radio Wave Propagation Prediction in Tunnels,” *IEEE MTT-S International Wireless Symposium*, 2025.
+
+**[C14]** Y. Yin and **H. Qin**, "Approximate signal detection for massive MIMO: Neumann series, iterative techniques, and machine learning enhancements," *5th International Conference on Signal Processing and Machine Learning*, 2025.
+
+**[C13]** **H. Qin** and X. Zhang, “Parabolic equation-based channel model for RIS-aided train communication systems,” *Photonics & Electromagnetics Research Symposium (PIERS)*, 2024.
+
+**[C12]** **H. Qin**, S. An, and X. Zhang, “Efficient two-way parabolic equation method with sparse Fourier transform for radio wave propagation over irregular terrain,” *Photonics & Electromagnetics Research Symposium (PIERS)*, 2024.
+
+**[C11]** S. An, **H. Qin**, and X. Zhang, “Efficient uncertainty quantification with subspace pursuit for FDTD based microwave circuit models,” *Photonics & Electromagnetics Research Symposium (PIERS)*, 2024.
+
+**[C10]** **H. Qin**, Z. Wu, and X. Zhang, “Path planning for cellular-connected UAV using parabolic equation-based radio wave propagation models,” *Photonics & Electromagnetics Research Symposium (PIERS)*, 2023.
+
+**[C9]** H. Wu, **H. Qin**, S. Ma, H-D. Lang, and X. Zhang, “Received signal strength prediction using generative adversarial networks for indoor localization,” *Photonics & Electromagnetics Research Symposium (PIERS)*, 2023.
+
+**[C8]** **H. Qin** and X. Zhang, "Two-way parabolic equation method for millimeter-wave propagation modeling in tunnels," *2022 IEEE 8th International Conference on Computer and Communications (ICCC)*, 2022.
+
+**[C7]** **H. Qin** and X. Zhang, “Modeling of millimeter-wave propagation in tunnels with split-step parabolic equation method,” *IEEE Topical Conference on Antennas and Propagation in Wireless Communications (ICEAA IEEE-APWC)*, 2022.
+
+**[C6]** **H. Qin**, W. Hou, J. Du, S. Yang, X. Zhang, “Parabolic equation-based channel model for direction of arrival estimation in indoor environments,” *IEEE International Symposium on Antennas and Propagation (AP-S)*, 2022.
+
+**[C5]** S. Wang, S. Huang, H. Wu, **H. Qin**, X. Zhang, “Vector parabolic equation driven CNN models for radio wave propagation in tunnels,” *IEEE International Symposium on Antennas and Propagation (AP-S)*, 2022.
+
+**[C4]** **H. Qin**, W. Hou, J. Du, S. Yang, X. Zhang, “Numerical evaluation of impacts of dust and water vapor on indoor channel characteristics,” *IEEE International Symposium on Antennas and Propagation (AP-S)*, 2021.
+
+**[C3]** **H. Qin**, W. Hou, J. Du, S. Yang, X. Zhang, “Study of dust effect on radio wave propagation at sub-6 GHz in industrial environments,” *International Union of Radio Science General Assembly & Scientific Symposium (URSI-GASS)*, 2021.
+
+**[C2]** **H. Qin** and X. Zhang, “Efficient modeling of radio wave propagation in tunnels for 5G and beyond using a split-step parabolic equation method,” *International Union of Radio Science General Assembly & Scientific Symposium (URSI-GASS)*, 2021.
+
+**[C1]** **H. Qin**, S. Shi, and X. Tong, “A new weighted indoor positioning algorithm based on the physical distance and clustering,” *2019 15th International Wireless Communications & Mobile Computing Conference (IWCMC)*, 2019.
+
+
