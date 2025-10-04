@@ -5,7 +5,6 @@ permalink: /teaching/
 ---
 
 
-
 #  Teaching in Sichuan University
 
 ## 2025F
