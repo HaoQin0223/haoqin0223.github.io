@@ -4,14 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-# 📚 Publications
+# Publications
 
 Below is a selected list of my research publications, including pre-prints, journal papers, and conference papers.  
 (*† Corresponding author, ‡ Co-first author*)
 
 ---
 
-## 🧪 Pre-prints
+## Pre-prints
 
 1. **Physics-Informed One-Shot Learning for Solving Parabolic Wave Equations**  
    **Hao Qin**†, Liu Cao, Hao Zhang, Qin Hao  
@@ -24,7 +24,7 @@ Below is a selected list of my research publications, including pre-prints, jour
 
 ---
 
-## 📘 Journal Papers
+## Journal Papers
 
 1. **Physics-Based Optimization of Access Point Placement for Communication-Based Train Control Systems: A Deep Reinforcement Learning Approach**  
    **Hao Qin**†, Minking Chyu, Qin Hao  
@@ -60,8 +60,3 @@ Below is a selected list of my research publications, including pre-prints, jour
 
 ---
 
-## 📖 Thesis
-
-- **Ph.D. Thesis:** *Development of High-Performance Wireless Channel Models for Transportation Systems*  
-  **Hao Qin**, University College Dublin, 2024.  
-  [UCD Repository](#)
