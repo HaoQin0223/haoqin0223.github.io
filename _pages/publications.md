@@ -14,9 +14,9 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 **[4]** K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, 2025. (corresponding author, under review)
 
-**[3]** Q. Zhao, Z. Feng, **H. Qin†**, Y. Liu, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach", *IEEE Transactions on Intelligent Transportation Systems*, 2025. (corresponding author, under review)
+**[3]** K, Wu, Q. Zhao, Z. Feng, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach", *IEEE Transactions on Intelligent Transportation Systems*, 2025. (corresponding author, under review)
 
-**[2]** Q. Zhang, B. Zhang, and **H. Qin†**, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, under review)
+**[2]** Q. Zhang, B. Zhang, **H. Qin†**, X. Zhang, and X. Zhang, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, under review)
 
 **[1]** S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, “Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation,” *IEEE Transactions on Antennas and Propagation*, 2025. (corresponding author, major revision)
 
