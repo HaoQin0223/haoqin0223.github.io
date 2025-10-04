@@ -13,9 +13,9 @@ I am currently an Assistant Professor at the Sichuan University – Pittsburgh I
 
 Education
 ======
-- Ph.D., Electrical and Electronic Engineering, University College Dublin (Sept. 2020-Jan. 2025)
-- M.S., Information and Communication Engineering, Harbin Institute of Technology (Sept. 2017-July 2019)
-- B.Eng., Communication Engineering, Harbin Institute of Technology (Sept. 2013-July 2017)
+- Ph.D., Electrical and Electronic Engineering, University College Dublin (Sept. 2020-Dec. 2024)
+- M.S., Information and Communication Engineering, Harbin Institute of Technology (Sept. 2017-Jul. 2019)
+- B.Eng., Communication Engineering, Harbin Institute of Technology (Sept. 2013-Jul. 2017)
 
 Professional Experience
 ======
