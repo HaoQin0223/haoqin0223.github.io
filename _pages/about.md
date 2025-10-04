@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Hao Qin is currently an Assistant Professor at the Sichuan University – Pittsburgh Institute, Sichuan University, China. He received the B.Sc. and M.A.Sc. degrees from Harbin Institute of Technology, Harbin, China, in 2017 and 2019, respectively, and the Ph.D. degree from the University College Dublin in 2024. 
+My work lies at the intersection of electromagnetics and wireless communication. I aim to develop computational and intelligent methods that deepen our understanding and empower transformative use of the electromagnetic spectrum in the connected world of the future.
 
-His work lies at the intersection of electromagnetics and wireless communication. Hao aims to develop computational and intelligent methods that deepen our understanding and empower transformative use of the electromagnetic spectrum in the connected world of the future.
+I am currently an Assistant Professor at the Sichuan University – Pittsburgh Institute, Sichuan University, China. I received the B.Sc. and M.A.Sc. degrees from Harbin Institute of Technology, Harbin, China, in 2017 and 2019, respectively, and the Ph.D. degree from the University College Dublin in 2024. 
 
 Education
 ======
