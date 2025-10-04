@@ -1,8 +1,8 @@
 ---
 layout: page
-author_profile: true
 title: News
 permalink: /news/
+author_profile: true
 ---
 
 - **[2024-07]** Received the *2023 Chinese Government Award for Outstanding Self-financed Students Abroad*.  
