@@ -63,7 +63,3 @@ I received the **B.Eng.** and **M.S.** degrees from the **Harbin Institute of Te
 - **[2017-09]** Awarded *HIT First-Class Scholarship for Master’s Students*.  
 - **[2017-07]** Received B.Eng. degree in Communication Engineering from *Harbin Institute of Technology* and direct admission to graduate school.
 
----
-
-- [ResearchGate](#)  
-- [ORCID](#)
