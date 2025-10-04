@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 About Me
+# About Me
 
 My research lies at the intersection of **electromagnetics** and **wireless communication**.  
 I aim to develop **computational** and **intelligent methods** that deepen our understanding of the electromagnetic spectrum and enable its **transformative use in the connected world of the future**.
@@ -17,7 +17,7 @@ I received the **B.Eng.** and **M.S.** degrees from the **Harbin Institute of Te
 
 ---
 
-# 🎓 Education
+# Education
 
 - **Ph.D.**, Electrical and Electronic Engineering, *University College Dublin*, Sept. 2020 – Dec. 2024  
 - **M.S.**, Information and Communication Engineering, *Harbin Institute of Technology*, Sept. 2017 – Jul. 2019  
@@ -25,14 +25,14 @@ I received the **B.Eng.** and **M.S.** degrees from the **Harbin Institute of Te
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 - **Assistant Professor**, Sichuan University–Pittsburgh Institute, *Sichuan University*, Sept. 2024 – Present  
 - **Research Assistant**, Electrical and Computer Engineering, *University of Alberta*, Sept. 2023 – Aug. 2024  
 
 ---
 
-# 📰 Recent News
+# Recent News
 
 - **[2024-07]** Received the *2023 Chinese Government Award for Outstanding Self-financed Students Abroad*.  
 - **[2024-06]** Paper *“Efficient High-Fidelity Deep Convolutional Generative Adversarial Network Model for Received Signal Strength Reconstruction in Indoor Environments”* accepted by *Electronics Letters*.  
@@ -65,9 +65,5 @@ I received the **B.Eng.** and **M.S.** degrees from the **Harbin Institute of Te
 
 ---
 
-# 🔗 Links
-
-- [Google Scholar](#)  
-- [IEEE Xplore Author Page](#)  
 - [ResearchGate](#)  
 - [ORCID](#)
