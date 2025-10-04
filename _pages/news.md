@@ -1,9 +1,7 @@
 ---
-permalink: /
-author_profile: true
-redirect_from: 
-  - /new/
-  - /news.html
+layout: page
+title: News
+permalink: /news/
 ---
 
 - **[2024-07]** Received the *2023 Chinese Government Award for Outstanding Self-financed Students Abroad*.  
