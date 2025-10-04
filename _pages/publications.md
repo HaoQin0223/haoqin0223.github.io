@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Publications
-author_profile: true
 permalink: /publications/
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 
 
