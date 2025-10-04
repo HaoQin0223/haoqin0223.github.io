@@ -6,7 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 
 My research lies at the intersection of **electromagnetics** and **wireless communication**.  
 I aim to develop **computational** and **intelligent methods** that deepen our understanding of the electromagnetic spectrum and enable its **transformative use in the connected world of the future**.
