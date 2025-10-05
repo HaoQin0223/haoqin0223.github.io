@@ -49,8 +49,6 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 ## Conference Papers 
 
-**[C25]** X. Wei, G. Qian, Z. Zheng, **H. Qin**, and Y. Ouyang, “GPG-HT: Generalized Policy Gradient with History-Aware Decision Transformer for Probabilistic Path Planning,” *8th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2025)*, 2025. (submitted)
-
 **[C24]** J. Zhou, K. Wu, Q. Zhao, L. Zhang, and **H. Qin**, "A PSO-Based TOA–FOA Fusion Method for TDMA Acoustic Localization", *2025 International Conference on Information Automation*, 2025. (accepted)
 
 **[C23]** **H. Qin**, S. Huang, Y. Mu, X. Zhang, and X. Zhang, "Parabolic Wave Equation Approaches for Tunnel Propagation Modeling: An Overview for 5G and Beyond Wireless Communications", *2025 IEEE 102nd Vehicular Technology Conference*, 2025. (accepted)
