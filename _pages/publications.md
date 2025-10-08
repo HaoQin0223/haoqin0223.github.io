@@ -10,16 +10,19 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 ## Preprint  
 
-**[4]** K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, 2025. (corresponding author, under review)
 
 **[3]** K, Wu, Q. Zhao, Z. Feng, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach", *IEEE Transactions on Intelligent Transportation Systems*, 2025. (corresponding author, under review)
 
-**[2]** Q. Zhang, B. Zhang, **H. Qin†**, X. Zhang, and X. Zhang, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, under review)
+**[2]** S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, “Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation,” *IEEE Transactions on Antennas and Propagation*, 2025. (corresponding author, major revision)
 
-**[1]** S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, “Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation,” *IEEE Transactions on Antennas and Propagation*, 2025. (corresponding author, major revision)
+**[1]** Y, Zhou, H, Wu, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Constrained Inc-GAN for Tunnel	Propagation Modeling from Sparse Line Measurements", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, under review)
 
 
 ## Journal Papers 
+
+**[15]** K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, 2025. (corresponding author, early access)
+
+**[14]** Q. Zhang, B. Zhang, **H. Qin†**, X. Zhang, and X. Zhang, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, early access)
 
 **[J13]** **H. Qin**, Z. Wu, Y. Liu, X. Zhang, and X. Zhang, “Physics-based trajectory design for cellular-connected UAV in rainy environments based on deep reinforcement learning,” *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 7, pp. 10320-10335, 2025.
 
