@@ -11,7 +11,7 @@ Below is a list of my research publications, including pre-prints, journal paper
 ## Preprint  
 
 
-**[3]** K, Wu, Q. Zhao, Z. Feng, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach", *IEEE Transactions on Intelligent Transportation Systems*, 2025. (corresponding author, under review)
+**[3]** K, Wu, Q. Zhao, Z. Feng, **H. Qin†**, X. Zhang, and X. Zhang, "Intelligent Optimization of Wireless Access Point Deployment for Communication-Based Train Control Systems Using Deep Reinforcement Learning", *IEEE Transactions on Intelligent Transportation Systems*, 2025. (corresponding author, under review)
 
 **[2]** S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, “Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation,” *IEEE Transactions on Antennas and Propagation*, 2025. (corresponding author, major revision)
 
