@@ -16,7 +16,7 @@ My research lies at the intersection of electromagnetics and wireless communicat
 
 - **Assistant Professor**, Electrical and Computer Engineering, Sichuan University–Pittsburgh Institute, *Sichuan University*, Sept. 2024 – Present  
 - **Research Assistant**, Electrical and Computer Engineering, *University of Alberta*, Sept. 2023 – Aug. 2024
-- **Research Scientist**, AI & FinTech, *China Merchants Bank*, Jul. 2019 – Aug. 2020  
+- **Research Scientist**, AI & FinTech, Headquarters, *China Merchants Bank*, Jul. 2019 – Aug. 2020  
 
 
 ---
