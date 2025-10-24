@@ -20,9 +20,9 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 ## Journal Papers 
 
-**[15]** K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, 2025. (corresponding author, early access)
+**[J15]** K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, 2025. (corresponding author, early access)
 
-**[14]** Q. Zhang, B. Zhang, **H. Qin†**, X. Zhang, and X. Zhang, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, early access)
+**[J14]** Q. Zhang, B. Zhang, **H. Qin†**, X. Zhang, and X. Zhang, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, early access)
 
 **[J13]** **H. Qin**, Z. Wu, Y. Liu, X. Zhang, and X. Zhang, “Physics-based trajectory design for cellular-connected UAV in rainy environments based on deep reinforcement learning,” *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 7, pp. 10320-10335, 2025.
 
