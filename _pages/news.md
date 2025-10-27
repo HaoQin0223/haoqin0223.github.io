@@ -30,7 +30,8 @@ author_profile: true
 - **[2022-07]** Two papers were accepted by *IEEE APS/URSI 2022*; presented two talks in Denver, USA (Student Travel Award).  
 - **[2021-12]** One paper was accepted by *IEEE APS/URSI 2021*; presented one talk remotely.
 - **[2021-08]** One paper was accepted by *URSI GASS 2021*; presented one talk remotely.  
-- **[2021-04]** Received the *UCD Seed Funding Award 2021*.  
+- **[2021-04]** Received the *UCD Seed Funding Award 2021*.
+- **[2020-09]** Received the *Beijing-Dublin International College (BDIC) research scholarship*.  
 - **[2019-07]** Received M.S. degree in Information and Communication Engineering, *IoT Laboratory, Harbin Institute of Technology*.  
 - **[2019-06]** One paper was accepted by *IWCMC 2019*; presented one talk remotely.   
 - **[2019-05]** Organized *EAI International Conference on Artificial Intelligence for Communications and Networks (AIComNet 2019)* in Harbin, China.  
