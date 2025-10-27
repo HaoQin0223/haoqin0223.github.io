@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-#  Teaching in Sichuan University
+#  Teaching in Sichuan University (All in English)
 
 ## 2025F
 - ECE 0401: ECE Analytical Methods
