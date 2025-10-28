@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-My research lies at the intersection of electromagnetics and wireless communication. I aim to develop computational and intelligent methods that deepen our understanding of the electromagnetic spectrum and enable its transformative use in the connected world of the future.
+My research lies at the intersection of electromagnetics, wireless communication, and artificial intelligence. I aim to develop computational and intelligent methods that deepen our understanding of the electromagnetic spectrum and enable its transformative use in the connected world of the future.
 
 
 ---
