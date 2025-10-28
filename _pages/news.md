@@ -13,7 +13,7 @@ author_profile: true
 - **[2025-08]** Organized a Special Session *“Recent Advances and Applications in Electromagnetic Wave Propagation and Scattering”* at *2025 ACES-China*.  
 - **[2025-08]** Two papers were accepted by *2025 ACES-China*; presented one talk in Huangshan, China.
 - **[2025-05]** Organized a Special Session *“Advances in Channel Modeling and Measurement for Wireless Applications”* at *IWS 2025*.  
-- **[2025-05]** Three paper were accepted by *IWS 2025*; presented two talk in Xi'an, China.
+- **[2025-05]** Three papers were accepted by *IWS 2025*; presented two talk in Xi'an, China.
 - **[2024-12]** Received Ph.D. degree in Electrical and Electronic Engineering, *University College Dublin*.  
 - **[2024-08]** Joined the Sichuan University–Pittsburgh Institute as an Assistant Professor.  
 - **[2024-07]** Received the *2023 Chinese Government Award for Outstanding Self-financed Students Abroad*.  
