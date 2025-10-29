@@ -23,11 +23,11 @@ author_profile: true
 - **[2023-08]** Received the *2023 IEEE Antennas and Propagation Society Fellowship Program Award*.  
 - **[2023-07]** Paper won *Honorable Mention* at *PIERS 2023*.  
 - **[2023-07]** Two papers were accepted by *PIERS 2023*; presented two talks in Prague, Czechia.  
-- **[2022-12]** Presented one paper at *IEEE ICCC 2022* (Best Presentation Award).
+- **[2022-12]** Presented one talk at *IEEE ICCC 2022*.
 - **[2022-12]** Received the *IEEE ICCC 2022 Best Presentation Award*.  
 - **[2022-09]** One paper was accepted by *IEEE APWC 2022*; presented a talk remotely.
 - **[2022-07]** Received the *IEEE APS/URSI 2022 Student Travel Award*.
-- **[2022-07]** Two papers were accepted by *IEEE APS/URSI 2022*; presented two talks in Denver, USA (Student Travel Award).  
+- **[2022-07]** Two papers were accepted by *IEEE APS/URSI 2022*; presented two talks in Denver, USA.  
 - **[2021-12]** One paper was accepted by *IEEE APS/URSI 2021*; presented one talk remotely.
 - **[2021-08]** One paper was accepted by *URSI GASS 2021*; presented one talk remotely.  
 - **[2021-04]** Received the *UCD Seed Funding Award 2021*.
