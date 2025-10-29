@@ -22,7 +22,7 @@ author_profile: true
 - **[2024-03]** Three papers were accepted by *PIERS 2024*; presented two talks in Chengdu, China.  
 - **[2023-08]** Received the *2023 IEEE Antennas and Propagation Society Fellowship Program Award*.  
 - **[2023-07]** Paper won *Honorable Mention* at *PIERS 2023*.  
-- **[2023-07]** Two conference were papers accepted by *PIERS 2023*; presented two talks in Prague, Czechia.  
+- **[2023-07]** Two papers were accepted by *PIERS 2023*; presented two talks in Prague, Czechia.  
 - **[2022-12]** Presented one paper at *IEEE ICCC 2022* (Best Presentation Award).
 - **[2022-12]** Received the *IEEE ICCC 2022 Best Presentation Award*.  
 - **[2022-09]** One paper was accepted by *IEEE APWC 2022*; presented a talk remotely.
