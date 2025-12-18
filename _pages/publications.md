@@ -9,11 +9,11 @@ Below is a list of my research publications, including pre-prints, journal paper
 [View on Google Scholar →](https://scholar.google.ca/citations?user=aBmmwloAAAAJ&hl=en)
 
 ## Preprint  
+**[3]** K, Wu, Q. Zhao, J. Zhou, J. Wang, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Informed Deep Recurrent Back-Projection Network for Tunnel Propagation Modeling", 2025. (corresponding author, under review)
 
+**[2]** K, Wu, Q. Zhao, Z. Feng, **H. Qin†**, X. Zhang, and X. Zhang, "Intelligent Optimization of Wireless Access Point Deployment for Communication-Based Train Control Systems Using Deep Reinforcement Learning", 2025. (corresponding author, under review)
 
-**[2]** K, Wu, Q. Zhao, Z. Feng, **H. Qin†**, X. Zhang, and X. Zhang, "Intelligent Optimization of Wireless Access Point Deployment for Communication-Based Train Control Systems Using Deep Reinforcement Learning", *IEEE Transactions on Intelligent Transportation Systems*, 2025. (corresponding author, under review)
-
-**[1]** Y, Zhou, H, Wu, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Constrained Inc-GAN for Tunnel	Propagation Modeling from Sparse Line Measurements", *IEEE Antennas and Wireless Propagation Letters*, 2025. (corresponding author, under review)
+**[1]** Y, Zhou, H, Wu, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Constrained Inc-GAN for Tunnel	Propagation Modeling from Sparse Line Measurements", 2025. (corresponding author, under review)
 
 
 ## Journal Papers 
