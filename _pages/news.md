@@ -5,6 +5,11 @@ permalink: /news/
 author_profile: true
 ---
 
+- **[2026-04]** Four papers were accepted by *ICCEM 2026*; presented two talks in Shanghai, China.
+- **[2026-04]** Organized a Special Session *“Advances in Electromagnetic Wave Propagation and Scattering: Methods, Models, and Applications”* at *ICCEM 2026*.
+- **[2026-03]** Joined the *“IEEE VTS TCoP Young Professionals Committee”*.
+- **[2026-02]** Joined the *“IEEE AP-S history committee”*.
+- **[2026-02]** Joined the *“IEEE VTS Propagation Committee (Propagation and Mobile Channel Theory Subcommittee)”*.
 - **[2025-11]** Five papers were accepted by *PIERS 2025*; presented five talks in Chiba, Japan.
 - **[2025-11]** Organized a Special Session *“Advances in Electromagnetic Wave Propagation and Scattering: Novel Techniques, Models, and Emerging Applications”* at *PIERS 2025*.
 - **[2025-10]** One paper was accepted by *VTC2025-Fall*; presented one talk in Chengdu, China.
