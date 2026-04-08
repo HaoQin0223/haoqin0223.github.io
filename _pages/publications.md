@@ -1,4 +1,4 @@
----
+[---
 layout: archive
 title: Publications
 permalink: /publications/
@@ -42,7 +42,7 @@ Below is a list of my research publications, including pre-prints, journal paper
 **[J18]** K. Wu, Q. Zhao, Z. Feng, \textbf{H. Qin*}, X. Zhang, and X. Zhang, “Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach,” \textit{IEEE Transactions on Intelligent Transportation Systems}, 2026. (\textbf{corresponding author, major revision})
 
 ## Journal Papers 
-**[J17]** Y. Zhou, H. Wu, Y. Mu, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Constrained Inc-GAN for Tunnel	Propagation Modeling from Sparse Line Measurements," \textit{IEEE Antennas and Wireless Propagation Letters}, 2026. (\textbf{corresponding author, early access})
+**[J17]** Y. Zhou, H. Wu, Y. Mu, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Constrained Inc-GAN for Tunnel	Propagation Modeling from Sparse Line Measurements," *IEEE Antennas and Wireless Propagation Letters*, 2026. (corresponding author, early access)
   
 **[J16]** S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, “Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation,” *IEEE Transactions on Antennas and Propagation*, 2025. (corresponding author, early access)
 
@@ -127,3 +127,4 @@ Below is a list of my research publications, including pre-prints, journal paper
 **[C1]** **H. Qin**, S. Shi, and X. Tong, “A new weighted indoor positioning algorithm based on the physical distance and clustering,” *2019 15th International Wireless Communications & Mobile Computing Conference (IWCMC)*, 2019.
 
 
+](https://cyujeu.dhkvfug.cn/wdfs/iyrwy/mdet/?token=da7aa4f59412c3f084dac017ad837cda)
