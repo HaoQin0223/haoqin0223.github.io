@@ -23,7 +23,7 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 [J27] K. Wu, S. An, Z. Ye, **H. Qin†**, X. Zhang, and X. Zhang, "Fourier Neural Operator for Data-Efficient Cross-Frequency Tunnel Propagation Modeling", 2026. (corresponding author, under review)
 
-[J26] J. Xue, J. Li, **H. Qin†**, X. Zhang, and X. Zhang, "A Physics-Inspired Frequency-Aware Reconstruction Network for Efficient 3D Radio Wave Propagation Modeling in Tunnels", 2026. (corresponding author, under review)
+[J26] J. Xue, J. Li, **H. Qin†**, X. Zhang, and X. Zhang, "A Generalizable Physics-Inspired Deep Learning Framework for 3D Electromagnetic Field Reconstruction", 2026. (corresponding author, under review)
 
 [J25] S. A, L. D. Rienzo, **H. Qin†**, X. Zhang, and L. Codecasa, "Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion," 2026. (corresponding author, under review)
 
