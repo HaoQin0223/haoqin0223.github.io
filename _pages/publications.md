@@ -9,7 +9,7 @@ Below is a list of my research publications, including pre-prints, journal paper
 [View on Google Scholar →](https://scholar.google.ca/citations?user=aBmmwloAAAAJ&hl=en)
 
 ## Preprints and Working Papers  
-[J33] Y. Wang, Z. Ye, X. Xie, **H. Qin†**, X. Zhang, and X. Zhang, "3D Electromagnetic Field Reconstruction in Curved Tunnels via Single-Trace Observations," 2026. (corresponding author, under review)
+<!--[J33] Y. Wang, Z. Ye, X. Xie, **H. Qin†**, X. Zhang, and X. Zhang, "3D Electromagnetic Field Reconstruction in Curved Tunnels via Single-Trace Observations," 2026. (corresponding author, under review)
 
 [J32] Y. Zhou, H. Wu, X. Xie, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Guided Progressive Reconstruction of Near-Field Electromagnetic Distributions," 2026. (corresponding author, under review)
 
@@ -25,7 +25,7 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 [J26] J. Xue, J. Li, **H. Qin†**, X. Zhang, and X. Zhang, "A Generalizable Physics-Inspired Deep Learning Framework for 3D Electromagnetic Field Reconstruction", 2026. (corresponding author, under review)
 
-[J25] S. A, L. D. Rienzo, **H. Qin†**, X. Zhang, and L. Codecasa, "Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion," 2026. (corresponding author, under review)
+[J25] S. A, L. D. Rienzo, **H. Qin†**, X. Zhang, and L. Codecasa, "Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion," 2026. (corresponding author, under review) -->
 
 [J24] K. Wu, Q. Zhao, J. Zhou, J. Wang, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Informed Deep Recurrent Back-Projection Network for Tunnel Propagation Modeling," 2026. (corresponding author, major revision)
 
