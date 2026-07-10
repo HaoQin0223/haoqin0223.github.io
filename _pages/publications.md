@@ -23,34 +23,37 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 [J27] K. Wu, S. An, Z. Ye, **H. Qin†**, X. Zhang, and X. Zhang, "Fourier Neural Operator for Data-Efficient Cross-Frequency Tunnel Propagation Modeling", 2026. (corresponding author, under review)
 
-[J26] J. Xue, J. Li, **H. Qin†**, X. Zhang, and X. Zhang, "A Generalizable Physics-Inspired Deep Learning Framework for 3D Electromagnetic Field Reconstruction", 2026. (corresponding author, under review)
+[J26] J. Xue, J. Li, **H. Qin†**, X. Zhang, and X. Zhang, "A Generalizable Physics-Inspired Deep Learning Framework for 3D Electromagnetic Field Reconstruction", 2026. (corresponding author, under review) -->
 
-[J25] S. A, L. D. Rienzo, **H. Qin†**, X. Zhang, and L. Codecasa, "Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion," 2026. (corresponding author, under review) -->
+[J26] S. A, L. D. Rienzo, **H. Qin†**, X. Zhang, and L. Codecasa, "Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion," 2026. (corresponding author, under review) 
 
-[J24] K. Wu, Q. Zhao, J. Zhou, J. Wang, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Informed Deep Recurrent Back-Projection Network for Tunnel Propagation Modeling," 2026. (corresponding author, major revision)
+[J25] H. Wu, S. Huang, **H. Qin**, X. Zhang, and X. Zhang, "An Efficient On-the-Fly Multi-Stage GAN Model for Tunnel Propagation", 2026. (major revision)
 
-[J23] H. Wu, S. Huang, **H. Qin**, X. Zhang, and X. Zhang, "An Efficient On-the-Fly Multi-Stage GAN Model for Tunnel Propagation", 2026. (major revision)
+[J24] Z. Ye, **H. Qin†**, X. Xie, X. Zhang, and Y. Liu, "Fairness-Oriented Optimization of NOMA-Enabled Pinching Antenna Systems Under Blockage and Imperfect CSI", 2026. (corresponding author, major revision)
 
-[J22] X. Xie, **H. Qin**, F. Fang, and X. Wang, "On Dual-Fed Pinching Antenna Systems with In-Waveguide Attenuation", 2026. (under review)
+[J23] **H. Qin**, S. Huang, S. Yang, Q. Zhao, Z. Ye, X. Zhang, and X. Zhang, "Physics-Informed Super-Resolution for Two-Way Propagation over Irregular Terrain", 2026. (under review)
 
-[J21] Z. Ye, **H. Qin†**, X. Xie, X. Zhang, and Y. Liu, "Fairness-Oriented Optimization of NOMA-Enabled Pinching Antenna Systems Under Blockage and Imperfect CSI", 2026. (corresponding author, major revision)
-
-[J20] Q. Zhao, Z. Feng, **H. Qin†**, X. Xie, X. Zhang, and Y. Liu, "Dynamic Antenna Positioning for Mobile Users in UMi Pinching Antenna Systems", 2026. (corresponding author, under review)
-
-[J19] **H. Qin**, S. Huang, S. Yang, Q. Zhao, Z. Ye, X. Zhang, and X. Zhang, "Physics-Informed Super-Resolution for Two-Way Propagation over Irregular Terrain", 2026. (under review)
-
-[J18] K. Wu, Q. Zhao, Z. Feng, **H. Qin***, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach," 2026. (corresponding author, major revision)
+[J22] K. Wu, Q. Zhao, Z. Feng, **H. Qin***, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach," 2026. (corresponding author, major revision)
 
 ## Journal Papers 
-[J17] Y. Zhou, H. Wu, Y. Mu, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Constrained Inc-GAN for Tunnel Propagation Modeling from Sparse Line Measurements," *IEEE Antennas and Wireless Propagation Letters*, vol. 25, no. 4, pp. 1562-1566, 2026. (corresponding author)
+	
+[J21] J. Li, J. Xue, K. Wu, **H. Qin†**,  X. Zhang, and X. Zhang, "Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling," *IEEE Antennas and Wireless Propagation Letters*, 2026. (corresponding author, early access)
+      
+[J20] K. Wu, Q. Zhao, J. Zhou, J. Wang, **H. Qin†**, X. Zhang, and X. Zhang, “Physics-Informed Deep Recurrent Back-Projection Network for Tunnel Propagation Modeling,” *IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation*, 2026. (corresponding author, early access)
   
-[J16] S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, "Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation," *IEEE Transactions on Antennas and Propagation*, vol. 74, no. 2, pp. 2191-2196, 2025. (corresponding author)
+[J19] J. Zhou, K. Wu, Z. Ye, **H. Qin†**,  X. Zhang, and X. Zhang, "Cross-Scale Transfer Learning for Efficient Tunnel Propagation Modeling," *IEEE Antennas and Wireless Propagation Letters*, 2026. (corresponding author, early access)
+  
+[J18] Y. Zhou, H. Wu, Y. Mu, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-Constrained Inc-GAN for Tunnel Propagation Modeling from Sparse Line Measurements," *IEEE Antennas and Wireless Propagation Letters*, vol. 25, no. 4, pp. 1562-1566, 2026. (corresponding author)
+  
+[J17] S. A, L. D. Rienzo, **H. Qin†**, X. Zhu, X. Zhang, and L. Codecasa, "Multilevel Monte Carlo coupled with parabolic wave equation for uncertainty analysis in radio wave propagation," *IEEE Transactions on Antennas and Propagation*, vol. 74, no. 2, pp. 2191-2196, 2025. (corresponding author)
 
-[J15] K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, vol. 73, no. 12, pp. 9854-9866, 2025. (corresponding author)
+[J16] K. Wu, K. Ni, **H. Qin†**, X. Zhang, and X. Zhang, "Efficient physics-based machine learning model for long-range radio wave propagation modeling in tunnels", *IEEE Transactions on Microwave Theory and Techniques*, vol. 73, no. 12, pp. 9854-9866, 2025. (corresponding author)
 
-[J14] Q. Zhang, B. Zhang, **H. Qin†**, X. Zhang, and X. Zhang, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, vol. 24, no. 12, pp. 4950-4954, 2025. (corresponding author)
+[J15] Q. Zhang, B. Zhang, **H. Qin†**, X. Zhang, and X. Zhang, "Generalizable radio wave propagation modeling for long tunnels with stacked LSTM approach", *IEEE Antennas and Wireless Propagation Letters*, vol. 24, no. 12, pp. 4950-4954, 2025. (corresponding author)
 
-[J13] **H. Qin**, Z. Wu, Y. Liu, X. Zhang, and X. Zhang, "Physics-based trajectory design for cellular-connected UAV in rainy environments based on deep reinforcement learning," *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 7, pp. 10320-10335, 2025.
+[J14] **H. Qin**, Z. Wu, Y. Liu, X. Zhang, and X. Zhang, "Physics-based trajectory design for cellular-connected UAV in rainy environments based on deep reinforcement learning," *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 7, pp. 10320-10335, 2025.
+
+[J13] J. Zhou, Q. Zhao, Z. Feng, K. Wu, L. Zhang, and **H. Qin†**, “Trajectory-Regularized Localization in Asynchronous Acoustic Networks via Enhanced PSO Optimization,” *Sensors*, vol. 25, no. 18, pp. 5722, 2025. (corresponding author)
 
 [J12] S. Huang, **H. Qin**, W. Hou, X. Zhang, and X. Zhang, "Generalizable physics-guided convolutional neural network for irregular terrain propagation," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 6, pp. 3975-3985, 2025.
 
