@@ -29,7 +29,7 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 [J27] **H. Qin**, S. Huang, S. Yang, Q. Zhao, Z. Ye, X. Zhang, and X. Zhang, "Physics-Informed Super-Resolution for Two-Way Propagation over Irregular Terrain", 2026. (under review)
 
-[J26] K. Wu, Q. Zhao, Z. Feng, **H. Qin***, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach," 2026. (corresponding author, major revision)
+[J26] K. Wu, Q. Zhao, Z. Feng, **H. Qin†**, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach," 2026. (corresponding author, major revision)
 
 ## Journal Papers 
 
