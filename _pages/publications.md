@@ -25,17 +25,21 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 [J26] J. Xue, J. Li, **H. Qin†**, X. Zhang, and X. Zhang, "A Generalizable Physics-Inspired Deep Learning Framework for 3D Electromagnetic Field Reconstruction", 2026. (corresponding author, under review) -->
 
-[J26] S. A, L. D. Rienzo, **H. Qin†**, X. Zhang, and L. Codecasa, "Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion," 2026. (corresponding author, under review) 
+[J28] Z. Ye, **H. Qin†**, X. Xie, X. Zhang, and Y. Liu, "Fairness-Oriented Optimization of NOMA-Enabled Pinching Antenna Systems Under Blockage and Imperfect CSI", 2026. (corresponding author, major revision)
 
-[J25] H. Wu, S. Huang, **H. Qin**, X. Zhang, and X. Zhang, "An Efficient On-the-Fly Multi-Stage GAN Model for Tunnel Propagation", 2026. (major revision)
+[J27] **H. Qin**, S. Huang, S. Yang, Q. Zhao, Z. Ye, X. Zhang, and X. Zhang, "Physics-Informed Super-Resolution for Two-Way Propagation over Irregular Terrain", 2026. (under review)
 
-[J24] Z. Ye, **H. Qin†**, X. Xie, X. Zhang, and Y. Liu, "Fairness-Oriented Optimization of NOMA-Enabled Pinching Antenna Systems Under Blockage and Imperfect CSI", 2026. (corresponding author, major revision)
-
-[J23] **H. Qin**, S. Huang, S. Yang, Q. Zhao, Z. Ye, X. Zhang, and X. Zhang, "Physics-Informed Super-Resolution for Two-Way Propagation over Irregular Terrain", 2026. (under review)
-
-[J22] K. Wu, Q. Zhao, Z. Feng, **H. Qin***, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach," 2026. (corresponding author, major revision)
+[J26] K. Wu, Q. Zhao, Z. Feng, **H. Qin***, X. Zhang, and X. Zhang, "Physics-based optimization of access point placement for communication-based train control systems: A deep reinforcement learning approach," 2026. (corresponding author, major revision)
 
 ## Journal Papers 
+
+[J25] S. An, L. D. Rienzo, **H. Qin**, X. Zhang, and L. Codecasa, “Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion,” *IEEE Transactions on Antennas and Propagation*, 2026. (corresponding author, early access)
+	
+[J24] H. Wu, S. Huang, S. Ma, **H. Qin**, S. Yang, X. Zhang, and X. Zhang, “An Efficient On-the-Fly Multi-Stage GAN Model for Tunnel Propagation,” *IEEE Transactions on Antennas and Propagation*, 2026. (early access)
+
+[J23] Y.-S. Lin, J. Li, **H. Qin**, and Y. Zhu, “Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic,” *Laser & Photonics Reviews*, e71521, 2026. 
+
+[J22] H. Wu, Y. Zhou, **H. Qin†**,  X. Zhang, and X. Zhang, "Physics-Anchored Generative Adversarial Networks for Sample-Efficient High-Fidelity Indoor Radio Environment Mapping," *IEEE Antennas and Wireless Propagation Letters*, 2026. (early access)
 	
 [J21] J. Li, J. Xue, K. Wu, **H. Qin†**,  X. Zhang, and X. Zhang, "Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling," *IEEE Antennas and Wireless Propagation Letters*, 2026. (corresponding author, early access)
       
