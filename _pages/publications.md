@@ -33,7 +33,7 @@ Below is a list of my research publications, including pre-prints, journal paper
 
 ## Journal Papers 
 
-[J25] S. An, L. D. Rienzo, **H. Qin**, X. Zhang, and L. Codecasa, “Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion,” *IEEE Transactions on Antennas and Propagation*, 2026. (corresponding author, early access)
+[J25] S. An, L. D. Rienzo, **H. Qin†**, X. Zhang, and L. Codecasa, “Uncertainty Quantification of Radio Wave Propagation over Irregular Terrains Using Adaptive Polynomial Chaos Expansion,” *IEEE Transactions on Antennas and Propagation*, 2026. (corresponding author, early access)
 	
 [J24] H. Wu, S. Huang, S. Ma, **H. Qin**, S. Yang, X. Zhang, and X. Zhang, “An Efficient On-the-Fly Multi-Stage GAN Model for Tunnel Propagation,” *IEEE Transactions on Antennas and Propagation*, 2026. (early access)
 
