@@ -4,7 +4,9 @@ title: News
 permalink: /news/
 author_profile: true
 ---
-
+- **[2026-08]** Two papers were accepted by *APCAP 2026*; presented two talks in Chengdu, China.
+- **[2025-07]** Received the *PIERS 2026 Young Scientist Award*.
+- **[2026-07]** Two papers were accepted by *PIERS 2026*; presented two talks in Suzhou, China.
 - **[2026-04]** Four papers were accepted by *ICCEM 2026*; presented two talks in Shanghai, China.
 - **[2026-04]** Organized a Special Session *“Advances in Electromagnetic Wave Propagation and Scattering: Methods, Models, and Applications”* at *ICCEM 2026*.
 - **[2026-03]** Joined the *“IEEE VTS TCoP Young Professionals Committee”*.
